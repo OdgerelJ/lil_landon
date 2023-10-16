@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React everyday
+          Learn React everyday deployed in AWS
         </a>
       </header>
     </div>
